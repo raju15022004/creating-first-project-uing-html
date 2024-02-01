@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>timetable</title>
+</head>
+<body>
+    <!-- <form>
+        <fieldset ><center>Gulzar group of institutions,Ludhiana </fieldset>
+        <fieldset><center>Time table even semeter jan. 2024</fieldset>
+        <fieldset><center>Branch:cse 4th B w.e.f 29 january</fieldset>
+    </form> -->
+    <table border="8">
+        
+        <thead>
+            <tr><th colspan="9" align=""center>Gulzar group of institutions,Ludhiana</th></tr>
+            <tr>
+                <th colspan="9" align=""center>Time table even semeter jan.2024_june 2024</th>
+            </tr>
+            <tr>
+                <th colspan="9" align=""center>Branch:cse 4th B w.e.f 29 january</th>
+            </tr>
+            <tr>
+                <th>Day/lec</th>
+                <th>9:00am-9:55am</th>
+                <th>9:55am-10:50am</th>
+                <th>10:50am-11:45am</th>
+                <th>11:45am-12:40pm</th>
+                <th>12:40pm-1:35pm</th>
+                <th>1:35pm-2:30pm</th>
+                <th>2:30pm-3:25pm</th>
+                <th>3:35pm-4:20pm</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mon</td>
+                <td colspan="2" >Btcs404-18(G4)BTsc404-18(G3)B-311(Lab2)(Rd)/(Lab1)(jpk)</td>
+                <td style="background-color:red">BTCS 402-18 B-411(Rd)</td>
+                <td style="background-color: aquamarine;">BTCS 401-18 B-411(JP)</td>
+                <td style="background-color: cadetblue;">HSMC122-18 B-18 B-411(SMK)</td>
+
+                <td rowspan="5">BREAK</td>
+                <td colspan="3">free leture </td>
+            </tr>
+            
+            <tr>style=
+                <td>TUE</td>
+                <td style="background-color: bisque;">BTCS 403-18 B-411(JPK)</td>
+                <td style="background-color:yellow;">BTCS 401-18 B-411(AA)</td>
+                <td style="background-color: brown;">BTCS 402-18 B-411(RD) </td>
+                <td style="background-color: chocolate;">BTES 401-18 B-411(JP)</td>
+                <td style="background-color: crimson;">HSMC122-18 B-411(SMK)</td>
+                <td colspan="3">Btcs404-18(G3)/BTCS 405-18(G4) B-311(Lab2)(RD)/B-311(Lab1)(JPK)</td> 
+            </tr>
+
+            <tr>
+                <td>WED</td>
+                <td style="background-color: bisque;">BTCS 403-18 B-411(JPK)</td>
+                <td style="background-color: yellow;">BTCS 401-18 B-411(AA)</td>
+                <td style="background-color: brown;">BTCS 402-18 B-411(RD) </td>
+                <td style="background-color: chocolate;">BTES 401-18 B-411(JP)</td>
+                 <td style="background-color: crimson;">HSMC122-18 B-411(SMK)</td>
+                 <td></td>
+                 <td>MENTOR</td>
+            </tr>
+            <tr>
+                <td>THU</td>
+                <td style="background-color: crimson;">HSMC122-18 B-411(SMK)</td>
+                <td style="background-color: yellow;">BTCS 401-18 B-411(AA)</td>
+                <td colspan="2">ADD ON(G4) B-410(Lab5)(HK)</td>
+                <td style="background-color: darkgreen;">EVS101-18 B-411(DMK)</td>
+                <td colspan="3"></td>
+            </tr>
+            <tr>
+                <td>FRI</td>
+                <td colspan="2">BTCS-402-18(G3)C-405(JP)</td>
+                <td style="background-color: yellow;">BTCS 401-18 B-411(AA)</td>
+                <td style="background-color: bisque;">BTES 401-18 B-411(JP)</td>
+                <td style="background-color: darkgreen;">EVS101-18 B-411(DMK)</td>
+                <td colspan="3"> Btcs404-18(G4)/BTCS 405-18(G3) B-311(Lab2)(RD)/B-311(Lab1)(JPK)</td>
+            </tr>
+
+        </tbody>
+    </table>
+    
+   
+
+    
+</body>
+</html>
